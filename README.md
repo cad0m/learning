@@ -1,21 +1,30 @@
-# Learning Repository
+# Web Development
 
-This repository contains various projects and exercises I've worked on during my learning journey.
+## HTML/CSS Practice Projects
 
-## Projects
+These projects are part of my learning journey, where I followed along with course tutorials to understand and practice HTML and CSS concepts. The designs were provided, and I coded them as part of the learning process.
 
-### Web Development
-1. #### HTML/CSS 
-   1.1 [project 0: single-landing-page](https://cad0m.github.io/learning/web-development/html-css/leon-single-landing-page)
-    - Description: A simple landing page
-    - Skills: HTML5, CSS3, Responsive Design
-    - [Source Code](./web-development/html-css/leon-single-landing-page)
+### 1. **Project: Leon Agency Landing Page**
+   - **Live Demo**: [Leon Agency Page](https://cad0m.github.io/learning/web-development/html-css/leon-single-landing-page)
+   - **Description**: A single-page website for a fictional agency, created as a code-along project.
+   - **Skills Practiced**: HTML5, CSS3, Responsive Design, CSS Grid
+   - **Original Design**: PSD template (provided by course)
+   - [Source Code](./web-development/html-css/leon-single-landing-page)
 
+### 2. **Project: Kasper Agency Landing Page**
+   - **Live Demo**: [Kasper Agency Page](https://cad0m.github.io/learning/web-development/html-css/Kasper-single-landing-page)
+   - **Description**: Another single-page website, building upon skills from the first project.
+   - **Skills Practiced**: Advanced CSS techniques, Flexbox, Responsive Design
+   - **Original Design**: PSD template (provided by course)
+   - [Source Code](./web-development/html-css/Kasper-single-landing-page)
 
+### Learning Outcomes
 
-## Skills Acquired
+Through these projects, I've gained hands-on experience with:
 
-- HTML/CSS
-- Django
-- Git and GitHub
+- Translating design mockups into static websites
+- Implementing responsive design principles
+- Using CSS preprocessors (if applicable)
+- Writing semantic HTML
 
+**Note**: These projects were completed as part of a structured learning course. The designs were provided, and I coded them under guidance to learn and apply web development concepts.
