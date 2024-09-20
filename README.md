@@ -12,11 +12,11 @@ These projects are part of my learning journey, where I followed along with cour
    - [Source Code](./web-development/html-css/leon-single-landing-page)
 
 ### 2. **Project: Kasper Agency Landing Page**
-   - **Live Demo**: [Kasper Agency Page](https://cad0m.github.io/learning/web-development/html-css/Kasper-single-landing-page)
+   - **Live Demo**: [Kasper Agency Page](https://cad0m.github.io/learning/web-development/html-css/kasper-single-landing-page)
    - **Description**: Another single-page website, building upon skills from the first project.
    - **Skills Practiced**: Advanced CSS techniques, Flexbox, Responsive Design
    - **Original Design**: PSD template (provided by course)
-   - [Source Code](./web-development/html-css/Kasper-single-landing-page)
+   - [Source Code](./web-development/html-css/kasper-single-landing-page)
 
 ### Learning Outcomes
 
