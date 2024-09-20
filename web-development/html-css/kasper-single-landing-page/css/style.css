@@ -153,7 +153,7 @@ header .container .form i {
 /* Start landing */
 .landing {
   min-height: 100vh;
-  background-image: url(../images/landing.jpg);
+  background-image: url("../images/landing.jpg");
   background-color: #6d6c6c;
   background-size: cover;
   position: relative;
